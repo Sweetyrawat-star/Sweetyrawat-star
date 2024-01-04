@@ -1,5 +1,5 @@
 <a href="https://github.com/Sweeyrawat-star">
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="1700" height="400">
+  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="2000" height="600">
 </a>
 
 
