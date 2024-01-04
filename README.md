@@ -1,6 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
 [![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://github.com/Sweeyrawat-star)
-[![MasterHead](https://64.media.tumblr.com/06a039696366181ac01fe45b8edcbbcf/tumblr_o1d81xT4WB1v2y42bo1_500.gif)](https://github.com/Sweeyrawat-star)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweety-rawat-688267188/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sweetyrawat1310)
+
 
 <h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
 
