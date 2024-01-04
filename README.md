@@ -7,7 +7,6 @@
 
  # 💫 About Me:
 ⦿ 🔭 I’m currently working on **Flutter Mobile App Development**<br><br> ⦿ 🌱 I’m currently learning **backend**<br><br> ⦿ 💬 Ask me about **html,css,javascript,bootstrap,PHP,Flutter,Dart,Swift Ui,Java**<br><br> ⦿ 📫 How to reach me **sweetyrawat1310@gmail.com**<br><br> ⦿ ⚡ Fun fact **I am funny**
-I am a Passionate Flutter Developer with an overall 4 Years of experience with skills in Dart and Flutter<br>Framework. I am very eager to write Android/IOS/Web/Windows applications with MVC, MVVM,<br>clean architecture practices and integrate third-party SDKs like Firebase, Mo-Engage, One-Signal,<br>Fresh-chat, Google Maps etc. into the application while configuring the Environment/Flavors for<br>AGILE development cycle with support to SQL and NOSQL database in the project.
 
 
 
