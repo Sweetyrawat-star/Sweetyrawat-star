@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/65/07/50/650750f47b2d3cc4eb3a11cff785835e.gif)](https://github.com/Sweeyrawat-star)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
+[![MasterHead](https://64.media.tumblr.com/06a039696366181ac01fe45b8edcbbcf/tumblr_o1d81xT4WB1v2y42bo1_500.gif)](https://github.com/Sweeyrawat-star)
 <h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
 
  # 💫 About Me:
