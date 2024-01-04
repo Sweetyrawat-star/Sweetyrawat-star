@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/16093268-Desktop-Animation)](https://github.com/Sweeyrawat-star)
+[![MasterHead](https://i.pinimg.com/originals/65/07/50/650750f47b2d3cc4eb3a11cff785835e.gif)](https://github.com/Sweeyrawat-star)
 <h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
 
  # 💫 About Me:
