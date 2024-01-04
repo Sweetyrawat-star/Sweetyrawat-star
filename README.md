@@ -1,4 +1,16 @@
+[![MasterHead](https://fuertedevelopers.com/assets/Images/flutterdevelopment.gif)](https://github.com/Sweeyrawat-star)
+<h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />![developer_pic](https://github.com/Sweetyrawat-star/Sweetyrawat-star/assets/57385799/784ef0c3-05aa-46d9-a26c-15e8fed6e319)
+
+
+<p align="left"> <a href="https://www.linkedin.com/in/sweety-rawat" target="blank"><img src="https://www.linkedin.com/in/sweety-rawat-688267188?logo=linkdein&style=for-the-badge" alt="Sweetyrawat-star" /></a> </p>
+
+
+
+
 # 💫 About Me:
+⦿ 🔭 I’m currently working on **Flutter Mobile App Development**<br><br> ⦿ 🌱 I’m currently learning **backend**<br><br> ⦿ 💬 Ask me about **html,css,javascript,bootstrap,PHP,Flutter,Dart,Swift Ui,Java**<br><br> ⦿ 📫 How to reach me **sweetyrawat1310@gmail.com**<br><br> ⦿ ⚡ Fun fact **I am funny**
 I am a Passionate Flutter Developer with an overall 4 Years of experience with skills in Dart and Flutter<br>Framework. I am very eager to write Android/IOS/Web/Windows applications with MVC, MVVM,<br>clean architecture practices and integrate third-party SDKs like Firebase, Mo-Engage, One-Signal,<br>Fresh-chat, Google Maps etc. into the application while configuring the Environment/Flavors for<br>AGILE development cycle with support to SQL and NOSQL database in the project.
 
 
