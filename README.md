@@ -1,86 +1,9 @@
-[![MasterHead](https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif)](https://github.com/Sweeyrawat-star)
+[![MasterHead](https://dribbble.com/shots/16093268-Desktop-Animation)](https://github.com/Sweeyrawat-star)
 <h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      background: #f0f0f0;
-    }
 
-    .container {
-      display: flex;
-      max-width: 800px;
-      width: 100%;
-    }
-
-    .image-container {
-      flex: 1;
-      text-align: center;
-      padding: 20px;
-    }
-
-    .image-container img {
-      border-radius: 50%;
-      max-width: 100%;
-      height: auto;
-      border: 8px solid #fff;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-    }
-
-    .about-me {
-      flex: 1;
-      padding: 20px;
-      background: linear-gradient(to right, #4e54c8, #8f94fb);
-      color: #fff;
-      border-radius: 20px;
-    }
-
-    .github-link {
-      margin-top: 15px;
-      color: #fff;
-      text-decoration: none;
-      display: inline-block;
-      padding: 8px 16px;
-      background-color: #6c757d;
-      border-radius: 4px;
-      transition: background-color 0.3s;
-    }
-
-    .github-link:hover {
-      background-color: #495057;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="image-container">
-      <img src="https://github.com/Sweetyrawat-star/Sweetyrawat-star/assets/57385799/784ef0c3-05aa-46d9-a26c-15e8fed6e319.png" alt="Profile Image">
-    </div>
-    <div class="about-me">
-      <h2>💫 About Me:</h2>
-      <ul>
-        <li>⦿ 🔭 I’m currently working on <strong>Flutter Mobile App Development</strong></li>
-        <li>⦿ 🌱 I’m currently learning <strong>backend</strong></li>
-        <li>⦿ 💬 Ask me about <strong>html,css,javascript,bootstrap,PHP,Flutter,Dart,Swift Ui,Java</strong></li>
-        <li>⦿ 📫 How to reach me <strong>sweetyrawat1310@gmail.com</strong></li>
-        <li>⦿ ⚡ Fun fact: <strong>I am funny</strong></li>
-        <li>I am a Passionate Flutter Developer with an overall 4 Years of experience with skills in Dart and Flutter Framework. I am very eager to write Android/IOS/Web/Windows applications with MVC, MVVM, clean architecture practices and integrate third-party SDKs like Firebase, Mo-Engage, One-Signal, Fresh-chat, Google Maps etc. into the application while configuring the Environment/Flavors for AGILE development cycle with support to SQL and NOSQL database in the project.</li>
-      </ul>
-      <a class="github-link" href="https://github.com/Sweetyrawat-star" target="_blank">GitHub Profile</a>
-    </div>
-  </div>
-</body>
-</html>
+ # 💫 About Me:
+⦿ 🔭 I’m currently working on **Flutter Mobile App Development**<br><br> ⦿ 🌱 I’m currently learning **backend**<br><br> ⦿ 💬 Ask me about **html,css,javascript,bootstrap,PHP,Flutter,Dart,Swift Ui,Java**<br><br> ⦿ 📫 How to reach me **sweetyrawat1310@gmail.com**<br><br> ⦿ ⚡ Fun fact **I am funny**
+I am a Passionate Flutter Developer with an overall 4 Years of experience with skills in Dart and Flutter<br>Framework. I am very eager to write Android/IOS/Web/Windows applications with MVC, MVVM,<br>clean architecture practices and integrate third-party SDKs like Firebase, Mo-Engage, One-Signal,<br>Fresh-chat, Google Maps etc. into the application while configuring the Environment/Flavors for<br>AGILE development cycle with support to SQL and NOSQL database in the project.
 
 
 
