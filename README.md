@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://github.com/Sweeyrawat-star)
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQFqgP8d704vYg/article-cover_image-shrink_423_752/0/1657270275654?e=1709769600&v=beta&t=-rOrrAVXX_B_uDbhpDkom4_PsTEnM4GdpSEXoaVM9GQ)](https://github.com/Sweeyrawat-star)
 
 
 <h1 align="center">Hi 👋, I'm Sweety Rawat</h1>
